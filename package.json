@@ -2,9 +2,9 @@
   "name": "mongoose-repro",
   "version": "0.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "repro.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "repro": "mocha repro.js"
   },
   "repository": {
     "type": "git",
